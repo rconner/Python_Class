@@ -1,4 +1,4 @@
-//Code for Hello World
+#Code for Hello World
 
 def Hello_world ():
     print("Hello World")
